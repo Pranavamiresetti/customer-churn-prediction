@@ -18,3 +18,6 @@
 ## Deployment
 - Built interactive web app using Streamlit
 - Users can input values and get real-time churn prediction
+## Demo
+
+![App Screenshot](Streamlit.png)
